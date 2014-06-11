@@ -21,7 +21,7 @@ require('strider-slack-hack')(job.project.name).tested(jobdata.phases.test.exitC
 restart strider
 
 ### why didnt you use the plugins?
-i tried, but the instructions were missing/lousy/outdated
+~~i tried, but the instructions were missing/lousy/outdated~~ see https://github.com/DFTi/strider-slack
 
 ### why didn't you use the webhook plugin that comes with strider?
 i tried, but it's broken as of https://github.com/Strider-CD/strider-webhooks/issues/4
