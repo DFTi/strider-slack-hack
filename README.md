@@ -1,3 +1,5 @@
+# please use https://github.com/DFTi/strider-slack instead
+
 ### install
 
 cd into strider deployment and run
